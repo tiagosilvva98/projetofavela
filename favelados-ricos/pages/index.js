@@ -1,0 +1,1 @@
+// Aqui vai o código principal do site Favelados Ricos (Front-end React/Next.js)
